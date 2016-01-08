@@ -1,0 +1,6 @@
+venv/
+static/images
+Vagrantfile
+vagrant.sh
+*.pyc
+.vagrant/
